@@ -1,1 +1,3 @@
 https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+git remote set-url origin https://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@github.com/litieliang/guiautotest.git
+
